@@ -23,7 +23,7 @@ Para back-end:
 	
 # Para instalar
 	- De um git clone em seu diretório de projetos;
-	- Instale o Greenfoot em seu computador https://www.greenfoot.org/download;
+	- Instale o Greenfoot em seu computador <a>https://www.greenfoot.org/download</a>;
 	- Encontre o arquivo "Project.greenfoot" e inicie-o;
 	- Clique no botão Start ao final da tela, selecione a opção verde e aperte ENTER. 
   
